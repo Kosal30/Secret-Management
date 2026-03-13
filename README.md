@@ -1,1 +1,1 @@
-# Secret-Management
+npm run dev
